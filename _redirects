@@ -3,5 +3,10 @@
 http://immostats.fr/* https://www.immostats.fr/:splat 301
 https://immostats.fr/* https://www.immostats.fr/:splat 301
 
+# Redirections pour CSS
+/*/styles.css /styles.css 200
+/*/*/styles.css /styles.css 200
+/*/*/*/styles.css /styles.css 200
+
 # Pages sans extension .html
 /*.html /:splat 200
