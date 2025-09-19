@@ -1,0 +1,134 @@
+{
+  "code": "75008",
+  "name": "Paris 8ème",
+  "lat": 48.8736,
+  "lon": 2.2952,
+  "prix_m2_appartement": 11733,
+  "prix_m2_maison": 11781,
+  "evolution_1y": 2.4,
+  "volume_2024": 179,
+  "surface_moyenne": 70,
+  "prix_median": 879975,
+  "transactions": [
+    {
+      "date": "2024-11-16",
+      "type": "Appartement",
+      "surface": 97,
+      "prix": 1121029,
+      "prix_m2": 11557
+    },
+    {
+      "date": "2024-10-20",
+      "type": "Appartement",
+      "surface": 22,
+      "prix": 247654,
+      "prix_m2": 11257
+    },
+    {
+      "date": "2024-11-14",
+      "type": "Appartement",
+      "surface": 97,
+      "prix": 1122484,
+      "prix_m2": 11572
+    },
+    {
+      "date": "2024-10-18",
+      "type": "Appartement",
+      "surface": 143,
+      "prix": 1656655,
+      "prix_m2": 11585
+    },
+    {
+      "date": "2024-11-05",
+      "type": "Appartement",
+      "surface": 126,
+      "prix": 1488690,
+      "prix_m2": 11815
+    },
+    {
+      "date": "2024-11-28",
+      "type": "Appartement",
+      "surface": 88,
+      "prix": 1007512,
+      "prix_m2": 11449
+    },
+    {
+      "date": "2024-11-17",
+      "type": "Appartement",
+      "surface": 79,
+      "prix": 906446,
+      "prix_m2": 11474
+    },
+    {
+      "date": "2024-10-24",
+      "type": "Maison",
+      "surface": 242,
+      "prix": 2755170,
+      "prix_m2": 11385
+    },
+    {
+      "date": "2024-11-22",
+      "type": "Appartement",
+      "surface": 48,
+      "prix": 558000,
+      "prix_m2": 11625
+    },
+    {
+      "date": "2024-11-01",
+      "type": "Appartement",
+      "surface": 73,
+      "prix": 845559,
+      "prix_m2": 11583
+    }
+  ],
+  "evolution": [
+    {
+      "month": "2024-01",
+      "prix_m2": 11241
+    },
+    {
+      "month": "2024-02",
+      "prix_m2": 11307
+    },
+    {
+      "month": "2024-03",
+      "prix_m2": 11295
+    },
+    {
+      "month": "2024-04",
+      "prix_m2": 11265
+    },
+    {
+      "month": "2024-05",
+      "prix_m2": 11172
+    },
+    {
+      "month": "2024-06",
+      "prix_m2": 11312
+    },
+    {
+      "month": "2024-07",
+      "prix_m2": 11406
+    },
+    {
+      "month": "2024-08",
+      "prix_m2": 11392
+    },
+    {
+      "month": "2024-09",
+      "prix_m2": 11332
+    },
+    {
+      "month": "2024-10",
+      "prix_m2": 11432
+    },
+    {
+      "month": "2024-11",
+      "prix_m2": 11366
+    },
+    {
+      "month": "2024-12",
+      "prix_m2": 11330
+    }
+  ]
+}

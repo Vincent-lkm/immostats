@@ -1,0 +1,12 @@
+name = "immo-stats"
+main = "worker-final-36k-cities.js"
+compatibility_date = "2024-11-20"
+account_id = "ff08052c4c88068a186ba2e095442ab5"  # Hello@linkuma.com account
+
+routes = [
+  { pattern = "immostats.fr/*", zone_name = "immostats.fr" },
+  { pattern = "www.immostats.fr/*", zone_name = "immostats.fr" }
+]
+
+[env.production]
+workers_dev = false

@@ -1,0 +1,46 @@
+name = "immo-stats"
+main = "cloudflare-worker.js"
+compatibility_date = "2024-11-20"
+
+# Compte Cloudflare
+account_id = "YOUR_ACCOUNT_ID"
+
+# Routes (domaine custom)
+routes = [
+  { pattern = "immo.votredomaine.fr/*", zone_name = "votredomaine.fr" },
+  { pattern = "immostats.fr/*", zone_name = "immostats.fr" }
+]
+
+# KV Namespaces
+kv_namespaces = [
+  { binding = "STATS_KV", id = "stats_kv_id", preview_id = "stats_kv_preview" },
+  { binding = "PAGES_KV", id = "pages_kv_id", preview_id = "pages_kv_preview" }
+]
+
+# D1 Database
+[[d1_databases]]
+binding = "D1_DATABASE"
+database_name = "immo-stats"
+database_id = "your-d1-database-id"
+
+# R2 Storage
+[[r2_buckets]]
+binding = "R2_BUCKET"
+bucket_name = "immo-assets"
+
+# Secrets (à configurer via wrangler)
+# wrangler secret put WEBHOOK_SECRET
+[vars]
+ENVIRONMENT = "production"
+
+# Limites et optimisations
+[env.production]
+workers_dev = false
+
+[env.development]
+workers_dev = true
+vars = { ENVIRONMENT = "development" }
+
+# Triggers pour updates automatiques
+[triggers]
+crons = ["0 3 * * MON"] # Tous les lundis à 3h du matin

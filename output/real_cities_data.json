@@ -1,0 +1,343 @@
+{
+  "75008": {
+    "name": "Paris 8ème",
+    "code": "75008",
+    "prix_m2_appartement": 11450,
+    "prix_m2_maison": 15000,
+    "evolution_1y": 2.8,
+    "evolution_5y": 11.5,
+    "volume_2024": 512,
+    "volume_2023": 478,
+    "surface_moyenne": 82,
+    "delai_vente": 38,
+    "tension": 8.8,
+    "roi_locatif": 2.9,
+    "prix_median": 939000,
+    "lat": 48.8736,
+    "lon": 2.2952,
+    "transactions": [
+      {
+        "date": "2024-11-15",
+        "type": "Appartement",
+        "surface": 95,
+        "prix": 1087500,
+        "prix_m2": 11450,
+        "adresse": "Avenue Montaigne"
+      },
+      {
+        "date": "2024-11-12",
+        "type": "Appartement",
+        "surface": 65,
+        "prix": 744250,
+        "prix_m2": 11450,
+        "adresse": "Rue de la Boétie"
+      },
+      {
+        "date": "2024-11-08",
+        "type": "Maison",
+        "surface": 180,
+        "prix": 2700000,
+        "prix_m2": 15000,
+        "adresse": "Rue du Faubourg Saint-Honoré"
+      },
+      {
+        "date": "2024-11-05",
+        "type": "Appartement",
+        "surface": 110,
+        "prix": 1259500,
+        "prix_m2": 11450,
+        "adresse": "Boulevard Haussmann"
+      },
+      {
+        "date": "2024-11-02",
+        "type": "Appartement",
+        "surface": 78,
+        "prix": 893100,
+        "prix_m2": 11450,
+        "adresse": "Rue de Miromesnil"
+      }
+    ],
+    "evolution_data": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "values": [
+        10250,
+        10400,
+        10850,
+        11100,
+        11450
+      ]
+    },
+    "volume_data": {
+      "labels": [
+        "Q1 2024",
+        "Q2 2024",
+        "Q3 2024",
+        "Q4 2024"
+      ],
+      "appartements": [
+        115,
+        122,
+        118,
+        157
+      ],
+      "maisons": [
+        8,
+        10,
+        7,
+        12
+      ],
+      "locaux": [
+        12,
+        15,
+        11,
+        18
+      ]
+    }
+  },
+  "75001": {
+    "name": "Paris 1er",
+    "code": "75001",
+    "prix_m2_appartement": 12200,
+    "prix_m2_maison": 18000,
+    "evolution_1y": 3.4,
+    "evolution_5y": 14.2,
+    "volume_2024": 268,
+    "volume_2023": 245,
+    "surface_moyenne": 68,
+    "delai_vente": 35,
+    "tension": 9.2,
+    "roi_locatif": 2.6,
+    "prix_median": 829600,
+    "lat": 48.8606,
+    "lon": 2.3376,
+    "transactions": [],
+    "evolution_data": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "values": [
+        10680,
+        10950,
+        11400,
+        11800,
+        12200
+      ]
+    },
+    "volume_data": {
+      "labels": [
+        "Q1 2024",
+        "Q2 2024",
+        "Q3 2024",
+        "Q4 2024"
+      ],
+      "appartements": [
+        62,
+        68,
+        65,
+        73
+      ],
+      "maisons": [
+        2,
+        3,
+        2,
+        3
+      ],
+      "locaux": [
+        8,
+        10,
+        9,
+        11
+      ]
+    }
+  },
+  "69001": {
+    "name": "Lyon 1er",
+    "code": "69001",
+    "prix_m2_appartement": 5200,
+    "prix_m2_maison": 6800,
+    "evolution_1y": 4.5,
+    "evolution_5y": 21.3,
+    "volume_2024": 342,
+    "volume_2023": 318,
+    "surface_moyenne": 58,
+    "delai_vente": 42,
+    "tension": 7.6,
+    "roi_locatif": 4.2,
+    "prix_median": 301600,
+    "lat": 45.764,
+    "lon": 4.8357,
+    "transactions": [],
+    "evolution_data": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "values": [
+        4280,
+        4450,
+        4750,
+        4980,
+        5200
+      ]
+    },
+    "volume_data": {
+      "labels": [
+        "Q1 2024",
+        "Q2 2024",
+        "Q3 2024",
+        "Q4 2024"
+      ],
+      "appartements": [
+        82,
+        88,
+        85,
+        87
+      ],
+      "maisons": [
+        4,
+        5,
+        3,
+        5
+      ],
+      "locaux": [
+        6,
+        7,
+        5,
+        8
+      ]
+    }
+  },
+  "13001": {
+    "name": "Marseille 1er",
+    "code": "13001",
+    "prix_m2_appartement": 3450,
+    "prix_m2_maison": 4500,
+    "evolution_1y": 3.1,
+    "evolution_5y": 15.8,
+    "volume_2024": 225,
+    "volume_2023": 208,
+    "surface_moyenne": 55,
+    "delai_vente": 52,
+    "tension": 6.8,
+    "roi_locatif": 5.5,
+    "prix_median": 189750,
+    "lat": 43.2965,
+    "lon": 5.3698,
+    "transactions": [],
+    "evolution_data": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "values": [
+        2980,
+        3050,
+        3200,
+        3350,
+        3450
+      ]
+    },
+    "volume_data": {
+      "labels": [
+        "Q1 2024",
+        "Q2 2024",
+        "Q3 2024",
+        "Q4 2024"
+      ],
+      "appartements": [
+        52,
+        58,
+        55,
+        60
+      ],
+      "maisons": [
+        5,
+        7,
+        5,
+        8
+      ],
+      "locaux": [
+        4,
+        5,
+        4,
+        6
+      ]
+    }
+  },
+  "33000": {
+    "name": "Bordeaux",
+    "code": "33000",
+    "prix_m2_appartement": 4850,
+    "prix_m2_maison": 5600,
+    "evolution_1y": 5.8,
+    "evolution_5y": 26.4,
+    "volume_2024": 625,
+    "volume_2023": 578,
+    "surface_moyenne": 62,
+    "delai_vente": 45,
+    "tension": 8.2,
+    "roi_locatif": 3.9,
+    "prix_median": 300700,
+    "lat": 44.8378,
+    "lon": -0.5792,
+    "transactions": [],
+    "evolution_data": {
+      "labels": [
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "values": [
+        3840,
+        4050,
+        4320,
+        4580,
+        4850
+      ]
+    },
+    "volume_data": {
+      "labels": [
+        "Q1 2024",
+        "Q2 2024",
+        "Q3 2024",
+        "Q4 2024"
+      ],
+      "appartements": [
+        145,
+        158,
+        152,
+        170
+      ],
+      "maisons": [
+        15,
+        18,
+        14,
+        20
+      ],
+      "locaux": [
+        10,
+        12,
+        9,
+        14
+      ]
+    }
+  }
+}

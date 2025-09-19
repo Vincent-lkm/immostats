@@ -1,0 +1,1538 @@
+{
+  "cities": [
+    {
+      "code": "75008",
+      "data": {
+        "code": "75008",
+        "name": "Paris 8ème",
+        "lat": 48.8736,
+        "lon": 2.2952,
+        "prix_m2_appartement": 11733,
+        "prix_m2_maison": 11781,
+        "evolution_1y": 2.4,
+        "volume_2024": 179,
+        "surface_moyenne": 70,
+        "prix_median": 879975,
+        "transactions": [
+          {
+            "date": "2024-11-16",
+            "type": "Appartement",
+            "surface": 97,
+            "prix": 1121029,
+            "prix_m2": 11557
+          },
+          {
+            "date": "2024-10-20",
+            "type": "Appartement",
+            "surface": 22,
+            "prix": 247654,
+            "prix_m2": 11257
+          },
+          {
+            "date": "2024-11-14",
+            "type": "Appartement",
+            "surface": 97,
+            "prix": 1122484,
+            "prix_m2": 11572
+          },
+          {
+            "date": "2024-10-18",
+            "type": "Appartement",
+            "surface": 143,
+            "prix": 1656655,
+            "prix_m2": 11585
+          },
+          {
+            "date": "2024-11-05",
+            "type": "Appartement",
+            "surface": 126,
+            "prix": 1488690,
+            "prix_m2": 11815
+          },
+          {
+            "date": "2024-11-28",
+            "type": "Appartement",
+            "surface": 88,
+            "prix": 1007512,
+            "prix_m2": 11449
+          },
+          {
+            "date": "2024-11-17",
+            "type": "Appartement",
+            "surface": 79,
+            "prix": 906446,
+            "prix_m2": 11474
+          },
+          {
+            "date": "2024-10-24",
+            "type": "Maison",
+            "surface": 242,
+            "prix": 2755170,
+            "prix_m2": 11385
+          },
+          {
+            "date": "2024-11-22",
+            "type": "Appartement",
+            "surface": 48,
+            "prix": 558000,
+            "prix_m2": 11625
+          },
+          {
+            "date": "2024-11-01",
+            "type": "Appartement",
+            "surface": 73,
+            "prix": 845559,
+            "prix_m2": 11583
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 11241
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 11307
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 11295
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 11265
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 11172
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 11312
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 11406
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 11392
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 11332
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 11432
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 11366
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 11330
+          }
+        ]
+      }
+    },
+    {
+      "code": "75001",
+      "data": {
+        "code": "75001",
+        "name": "Paris 1er",
+        "lat": 48.8606,
+        "lon": 2.3376,
+        "prix_m2_appartement": 13349,
+        "prix_m2_maison": 12891,
+        "evolution_1y": 6.6,
+        "volume_2024": 331,
+        "surface_moyenne": 69,
+        "prix_median": 1001175,
+        "transactions": [
+          {
+            "date": "2024-10-18",
+            "type": "Appartement",
+            "surface": 31,
+            "prix": 401450,
+            "prix_m2": 12950
+          },
+          {
+            "date": "2024-10-13",
+            "type": "Appartement",
+            "surface": 71,
+            "prix": 928751,
+            "prix_m2": 13081
+          },
+          {
+            "date": "2024-10-22",
+            "type": "Appartement",
+            "surface": 99,
+            "prix": 1326402,
+            "prix_m2": 13398
+          },
+          {
+            "date": "2024-10-12",
+            "type": "Appartement",
+            "surface": 29,
+            "prix": 399997,
+            "prix_m2": 13793
+          },
+          {
+            "date": "2024-11-01",
+            "type": "Appartement",
+            "surface": 26,
+            "prix": 358462,
+            "prix_m2": 13787
+          },
+          {
+            "date": "2024-11-16",
+            "type": "Appartement",
+            "surface": 67,
+            "prix": 880782,
+            "prix_m2": 13146
+          },
+          {
+            "date": "2024-11-04",
+            "type": "Appartement",
+            "surface": 33,
+            "prix": 446325,
+            "prix_m2": 13525
+          },
+          {
+            "date": "2024-11-21",
+            "type": "Appartement",
+            "surface": 123,
+            "prix": 1664559,
+            "prix_m2": 13533
+          },
+          {
+            "date": "2024-10-17",
+            "type": "Appartement",
+            "surface": 53,
+            "prix": 717567,
+            "prix_m2": 13539
+          },
+          {
+            "date": "2024-10-05",
+            "type": "Appartement",
+            "surface": 61,
+            "prix": 812703,
+            "prix_m2": 13323
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 12661
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 12667
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 12613
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 12635
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 12635
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 12709
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 12613
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 12759
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 12894
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 12871
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 13009
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 12911
+          }
+        ]
+      }
+    },
+    {
+      "code": "69001",
+      "data": {
+        "code": "69001",
+        "name": "Lyon 1er",
+        "lat": 45.764,
+        "lon": 4.8357,
+        "prix_m2_appartement": 3690,
+        "prix_m2_maison": 3934,
+        "evolution_1y": -1.2,
+        "volume_2024": 288,
+        "surface_moyenne": 69,
+        "prix_median": 276750,
+        "transactions": [
+          {
+            "date": "2024-10-14",
+            "type": "Maison",
+            "surface": 212,
+            "prix": 682428,
+            "prix_m2": 3219
+          },
+          {
+            "date": "2024-11-13",
+            "type": "Appartement",
+            "surface": 82,
+            "prix": 303646,
+            "prix_m2": 3703
+          },
+          {
+            "date": "2024-11-08",
+            "type": "Appartement",
+            "surface": 58,
+            "prix": 219878,
+            "prix_m2": 3791
+          },
+          {
+            "date": "2024-10-09",
+            "type": "Appartement",
+            "surface": 67,
+            "prix": 249575,
+            "prix_m2": 3725
+          },
+          {
+            "date": "2024-11-28",
+            "type": "Appartement",
+            "surface": 95,
+            "prix": 364230,
+            "prix_m2": 3834
+          },
+          {
+            "date": "2024-11-28",
+            "type": "Appartement",
+            "surface": 128,
+            "prix": 455168,
+            "prix_m2": 3556
+          },
+          {
+            "date": "2024-10-04",
+            "type": "Appartement",
+            "surface": 63,
+            "prix": 238077,
+            "prix_m2": 3779
+          },
+          {
+            "date": "2024-10-24",
+            "type": "Appartement",
+            "surface": 134,
+            "prix": 435232,
+            "prix_m2": 3248
+          },
+          {
+            "date": "2024-10-24",
+            "type": "Appartement",
+            "surface": 42,
+            "prix": 157836,
+            "prix_m2": 3758
+          },
+          {
+            "date": "2024-11-25",
+            "type": "Appartement",
+            "surface": 61,
+            "prix": 198677,
+            "prix_m2": 3257
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 3628
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 3584
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 3682
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 3830
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 3789
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 3880
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 3909
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 3837
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 3854
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 3940
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 3971
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 4059
+          }
+        ]
+      }
+    },
+    {
+      "code": "13001",
+      "data": {
+        "code": "13001",
+        "name": "Marseille 1er",
+        "lat": 43.2965,
+        "lon": 5.3698,
+        "prix_m2_appartement": 4352,
+        "prix_m2_maison": 4946,
+        "evolution_1y": -1.1,
+        "volume_2024": 386,
+        "surface_moyenne": 79,
+        "prix_median": 326400,
+        "transactions": [
+          {
+            "date": "2024-10-07",
+            "type": "Maison",
+            "surface": 118,
+            "prix": 575014,
+            "prix_m2": 4873
+          },
+          {
+            "date": "2024-10-19",
+            "type": "Appartement",
+            "surface": 71,
+            "prix": 290177,
+            "prix_m2": 4087
+          },
+          {
+            "date": "2024-11-06",
+            "type": "Appartement",
+            "surface": 62,
+            "prix": 280860,
+            "prix_m2": 4530
+          },
+          {
+            "date": "2024-10-26",
+            "type": "Appartement",
+            "surface": 138,
+            "prix": 591606,
+            "prix_m2": 4287
+          },
+          {
+            "date": "2024-10-06",
+            "type": "Maison",
+            "surface": 115,
+            "prix": 658145,
+            "prix_m2": 5723
+          },
+          {
+            "date": "2024-11-24",
+            "type": "Appartement",
+            "surface": 97,
+            "prix": 458713,
+            "prix_m2": 4729
+          },
+          {
+            "date": "2024-10-23",
+            "type": "Maison",
+            "surface": 117,
+            "prix": 621036,
+            "prix_m2": 5308
+          },
+          {
+            "date": "2024-11-01",
+            "type": "Appartement",
+            "surface": 114,
+            "prix": 497496,
+            "prix_m2": 4364
+          },
+          {
+            "date": "2024-10-06",
+            "type": "Appartement",
+            "surface": 123,
+            "prix": 486834,
+            "prix_m2": 3958
+          },
+          {
+            "date": "2024-10-18",
+            "type": "Maison",
+            "surface": 76,
+            "prix": 388284,
+            "prix_m2": 5109
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 4086
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 4097
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 4163
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 4151
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 4260
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 4222
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 4200
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 4219
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 4316
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 4362
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 4399
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 4503
+          }
+        ]
+      }
+    },
+    {
+      "code": "33000",
+      "data": {
+        "code": "33000",
+        "name": "Bordeaux",
+        "lat": 44.8378,
+        "lon": -0.5792,
+        "prix_m2_appartement": 4926,
+        "prix_m2_maison": 5167,
+        "evolution_1y": 2.1,
+        "volume_2024": 495,
+        "surface_moyenne": 73,
+        "prix_median": 369450,
+        "transactions": [
+          {
+            "date": "2024-10-25",
+            "type": "Appartement",
+            "surface": 83,
+            "prix": 411348,
+            "prix_m2": 4956
+          },
+          {
+            "date": "2024-10-27",
+            "type": "Appartement",
+            "surface": 112,
+            "prix": 536704,
+            "prix_m2": 4792
+          },
+          {
+            "date": "2024-11-01",
+            "type": "Appartement",
+            "surface": 56,
+            "prix": 268520,
+            "prix_m2": 4795
+          },
+          {
+            "date": "2024-10-23",
+            "type": "Appartement",
+            "surface": 136,
+            "prix": 640424,
+            "prix_m2": 4709
+          },
+          {
+            "date": "2024-11-06",
+            "type": "Appartement",
+            "surface": 139,
+            "prix": 622859,
+            "prix_m2": 4481
+          },
+          {
+            "date": "2024-10-21",
+            "type": "Appartement",
+            "surface": 84,
+            "prix": 391440,
+            "prix_m2": 4660
+          },
+          {
+            "date": "2024-11-04",
+            "type": "Appartement",
+            "surface": 106,
+            "prix": 486328,
+            "prix_m2": 4588
+          },
+          {
+            "date": "2024-11-09",
+            "type": "Appartement",
+            "surface": 29,
+            "prix": 137170,
+            "prix_m2": 4730
+          },
+          {
+            "date": "2024-10-15",
+            "type": "Maison",
+            "surface": 71,
+            "prix": 327665,
+            "prix_m2": 4615
+          },
+          {
+            "date": "2024-10-16",
+            "type": "Appartement",
+            "surface": 139,
+            "prix": 684019,
+            "prix_m2": 4921
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 4674
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 4785
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 4690
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 4676
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 4631
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 4558
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 4699
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 4764
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 4747
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 4896
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 5028
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 5104
+          }
+        ]
+      }
+    },
+    {
+      "code": "59000",
+      "data": {
+        "code": "59000",
+        "name": "Lille",
+        "lat": 50.6292,
+        "lon": 3.0573,
+        "prix_m2_appartement": 3569,
+        "prix_m2_maison": 3337,
+        "evolution_1y": 6.8,
+        "volume_2024": 189,
+        "surface_moyenne": 70,
+        "prix_median": 267675,
+        "transactions": [
+          {
+            "date": "2024-11-01",
+            "type": "Appartement",
+            "surface": 118,
+            "prix": 402734,
+            "prix_m2": 3413
+          },
+          {
+            "date": "2024-10-09",
+            "type": "Appartement",
+            "surface": 101,
+            "prix": 351480,
+            "prix_m2": 3480
+          },
+          {
+            "date": "2024-11-13",
+            "type": "Appartement",
+            "surface": 120,
+            "prix": 368400,
+            "prix_m2": 3070
+          },
+          {
+            "date": "2024-11-23",
+            "type": "Appartement",
+            "surface": 122,
+            "prix": 453718,
+            "prix_m2": 3719
+          },
+          {
+            "date": "2024-11-21",
+            "type": "Appartement",
+            "surface": 28,
+            "prix": 93632,
+            "prix_m2": 3344
+          },
+          {
+            "date": "2024-11-25",
+            "type": "Appartement",
+            "surface": 42,
+            "prix": 170058,
+            "prix_m2": 4049
+          },
+          {
+            "date": "2024-10-22",
+            "type": "Appartement",
+            "surface": 80,
+            "prix": 247040,
+            "prix_m2": 3088
+          },
+          {
+            "date": "2024-11-14",
+            "type": "Appartement",
+            "surface": 60,
+            "prix": 226380,
+            "prix_m2": 3773
+          },
+          {
+            "date": "2024-11-02",
+            "type": "Maison",
+            "surface": 111,
+            "prix": 375735,
+            "prix_m2": 3385
+          },
+          {
+            "date": "2024-10-07",
+            "type": "Appartement",
+            "surface": 62,
+            "prix": 220844,
+            "prix_m2": 3562
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 3503
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 3593
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 3685
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 3636
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 3622
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 3621
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 3580
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 3708
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 3773
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 3766
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 3708
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 3664
+          }
+        ]
+      }
+    },
+    {
+      "code": "31000",
+      "data": {
+        "code": "31000",
+        "name": "Toulouse",
+        "lat": 43.6047,
+        "lon": 1.4442,
+        "prix_m2_appartement": 2817,
+        "prix_m2_maison": 3096,
+        "evolution_1y": -1.1,
+        "volume_2024": 107,
+        "surface_moyenne": 71,
+        "prix_median": 211275,
+        "transactions": [
+          {
+            "date": "2024-11-11",
+            "type": "Appartement",
+            "surface": 129,
+            "prix": 335271,
+            "prix_m2": 2599
+          },
+          {
+            "date": "2024-10-02",
+            "type": "Appartement",
+            "surface": 51,
+            "prix": 163098,
+            "prix_m2": 3198
+          },
+          {
+            "date": "2024-11-24",
+            "type": "Appartement",
+            "surface": 139,
+            "prix": 381138,
+            "prix_m2": 2742
+          },
+          {
+            "date": "2024-11-13",
+            "type": "Appartement",
+            "surface": 30,
+            "prix": 95790,
+            "prix_m2": 3193
+          },
+          {
+            "date": "2024-11-22",
+            "type": "Appartement",
+            "surface": 88,
+            "prix": 270248,
+            "prix_m2": 3071
+          },
+          {
+            "date": "2024-10-08",
+            "type": "Appartement",
+            "surface": 29,
+            "prix": 69078,
+            "prix_m2": 2382
+          },
+          {
+            "date": "2024-10-03",
+            "type": "Maison",
+            "surface": 147,
+            "prix": 439530,
+            "prix_m2": 2990
+          },
+          {
+            "date": "2024-11-23",
+            "type": "Appartement",
+            "surface": 138,
+            "prix": 355626,
+            "prix_m2": 2577
+          },
+          {
+            "date": "2024-10-05",
+            "type": "Appartement",
+            "surface": 130,
+            "prix": 424710,
+            "prix_m2": 3267
+          },
+          {
+            "date": "2024-11-22",
+            "type": "Maison",
+            "surface": 116,
+            "prix": 299860,
+            "prix_m2": 2585
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 2771
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 2730
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 2868
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 2974
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 3101
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 3089
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 3142
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 3164
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 3228
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 3325
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 3242
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 3261
+          }
+        ]
+      }
+    },
+    {
+      "code": "06000",
+      "data": {
+        "code": "06000",
+        "name": "Nice",
+        "lat": 43.7102,
+        "lon": 7.262,
+        "prix_m2_appartement": 6008,
+        "prix_m2_maison": 6568,
+        "evolution_1y": 3.4,
+        "volume_2024": 267,
+        "surface_moyenne": 76,
+        "prix_median": 450600,
+        "transactions": [
+          {
+            "date": "2024-10-18",
+            "type": "Appartement",
+            "surface": 114,
+            "prix": 681492,
+            "prix_m2": 5978
+          },
+          {
+            "date": "2024-11-22",
+            "type": "Maison",
+            "surface": 80,
+            "prix": 488640,
+            "prix_m2": 6108
+          },
+          {
+            "date": "2024-10-06",
+            "type": "Maison",
+            "surface": 129,
+            "prix": 927639,
+            "prix_m2": 7191
+          },
+          {
+            "date": "2024-10-28",
+            "type": "Appartement",
+            "surface": 35,
+            "prix": 217665,
+            "prix_m2": 6219
+          },
+          {
+            "date": "2024-11-26",
+            "type": "Maison",
+            "surface": 223,
+            "prix": 1325289,
+            "prix_m2": 5943
+          },
+          {
+            "date": "2024-10-02",
+            "type": "Appartement",
+            "surface": 122,
+            "prix": 780434,
+            "prix_m2": 6397
+          },
+          {
+            "date": "2024-10-17",
+            "type": "Appartement",
+            "surface": 50,
+            "prix": 300500,
+            "prix_m2": 6010
+          },
+          {
+            "date": "2024-11-26",
+            "type": "Appartement",
+            "surface": 119,
+            "prix": 663306,
+            "prix_m2": 5574
+          },
+          {
+            "date": "2024-11-28",
+            "type": "Maison",
+            "surface": 243,
+            "prix": 1654344,
+            "prix_m2": 6808
+          },
+          {
+            "date": "2024-10-10",
+            "type": "Appartement",
+            "surface": 79,
+            "prix": 465389,
+            "prix_m2": 5891
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 5844
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 5838
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 5769
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 5793
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 5745
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 5745
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 5677
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 5678
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 5658
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 5619
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 5659
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 5793
+          }
+        ]
+      }
+    },
+    {
+      "code": "44000",
+      "data": {
+        "code": "44000",
+        "name": "Nantes",
+        "lat": 47.2184,
+        "lon": -1.5536,
+        "prix_m2_appartement": 4726,
+        "prix_m2_maison": 5456,
+        "evolution_1y": 7.3,
+        "volume_2024": 486,
+        "surface_moyenne": 70,
+        "prix_median": 354450,
+        "transactions": [
+          {
+            "date": "2024-10-09",
+            "type": "Appartement",
+            "surface": 130,
+            "prix": 619320,
+            "prix_m2": 4764
+          },
+          {
+            "date": "2024-10-09",
+            "type": "Maison",
+            "surface": 144,
+            "prix": 693360,
+            "prix_m2": 4815
+          },
+          {
+            "date": "2024-11-16",
+            "type": "Appartement",
+            "surface": 40,
+            "prix": 208480,
+            "prix_m2": 5212
+          },
+          {
+            "date": "2024-11-18",
+            "type": "Appartement",
+            "surface": 66,
+            "prix": 314358,
+            "prix_m2": 4763
+          },
+          {
+            "date": "2024-10-12",
+            "type": "Appartement",
+            "surface": 88,
+            "prix": 417384,
+            "prix_m2": 4743
+          },
+          {
+            "date": "2024-11-21",
+            "type": "Maison",
+            "surface": 160,
+            "prix": 953760,
+            "prix_m2": 5961
+          },
+          {
+            "date": "2024-10-12",
+            "type": "Maison",
+            "surface": 108,
+            "prix": 528552,
+            "prix_m2": 4894
+          },
+          {
+            "date": "2024-11-12",
+            "type": "Appartement",
+            "surface": 136,
+            "prix": 592280,
+            "prix_m2": 4355
+          },
+          {
+            "date": "2024-10-13",
+            "type": "Maison",
+            "surface": 104,
+            "prix": 567528,
+            "prix_m2": 5457
+          },
+          {
+            "date": "2024-11-21",
+            "type": "Maison",
+            "surface": 102,
+            "prix": 623016,
+            "prix_m2": 6108
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 4557
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 4521
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 4660
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 4806
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 4762
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 4815
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 4793
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 4919
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 4881
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 4784
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 4797
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 4798
+          }
+        ]
+      }
+    },
+    {
+      "code": "67000",
+      "data": {
+        "code": "67000",
+        "name": "Strasbourg",
+        "lat": 48.5734,
+        "lon": 7.7521,
+        "prix_m2_appartement": 3286,
+        "prix_m2_maison": 3864,
+        "evolution_1y": 6.0,
+        "volume_2024": 78,
+        "surface_moyenne": 78,
+        "prix_median": 246450,
+        "transactions": [
+          {
+            "date": "2024-11-22",
+            "type": "Maison",
+            "surface": 160,
+            "prix": 735520,
+            "prix_m2": 4597
+          },
+          {
+            "date": "2024-10-26",
+            "type": "Appartement",
+            "surface": 104,
+            "prix": 311376,
+            "prix_m2": 2994
+          },
+          {
+            "date": "2024-10-12",
+            "type": "Appartement",
+            "surface": 52,
+            "prix": 156728,
+            "prix_m2": 3014
+          },
+          {
+            "date": "2024-11-18",
+            "type": "Appartement",
+            "surface": 93,
+            "prix": 306249,
+            "prix_m2": 3293
+          },
+          {
+            "date": "2024-11-16",
+            "type": "Appartement",
+            "surface": 26,
+            "prix": 86424,
+            "prix_m2": 3324
+          },
+          {
+            "date": "2024-10-09",
+            "type": "Appartement",
+            "surface": 43,
+            "prix": 132526,
+            "prix_m2": 3082
+          },
+          {
+            "date": "2024-10-06",
+            "type": "Maison",
+            "surface": 222,
+            "prix": 724164,
+            "prix_m2": 3262
+          },
+          {
+            "date": "2024-10-19",
+            "type": "Maison",
+            "surface": 115,
+            "prix": 519455,
+            "prix_m2": 4517
+          },
+          {
+            "date": "2024-10-15",
+            "type": "Maison",
+            "surface": 171,
+            "prix": 635094,
+            "prix_m2": 3714
+          },
+          {
+            "date": "2024-10-24",
+            "type": "Maison",
+            "surface": 84,
+            "prix": 321384,
+            "prix_m2": 3826
+          }
+        ],
+        "evolution": [
+          {
+            "month": "2024-01",
+            "prix_m2": 3255
+          },
+          {
+            "month": "2024-02",
+            "prix_m2": 3218
+          },
+          {
+            "month": "2024-03",
+            "prix_m2": 3235
+          },
+          {
+            "month": "2024-04",
+            "prix_m2": 3328
+          },
+          {
+            "month": "2024-05",
+            "prix_m2": 3414
+          },
+          {
+            "month": "2024-06",
+            "prix_m2": 3426
+          },
+          {
+            "month": "2024-07",
+            "prix_m2": 3380
+          },
+          {
+            "month": "2024-08",
+            "prix_m2": 3502
+          },
+          {
+            "month": "2024-09",
+            "prix_m2": 3596
+          },
+          {
+            "month": "2024-10",
+            "prix_m2": 3632
+          },
+          {
+            "month": "2024-11",
+            "prix_m2": 3761
+          },
+          {
+            "month": "2024-12",
+            "prix_m2": 3864
+          }
+        ]
+      }
+    }
+  ],
+  "top_cities": [
+    {
+      "code": "75001",
+      "name": "Paris 1er",
+      "slug": "paris-1er",
+      "prix_m2": 13349,
+      "evolution": 6.6,
+      "volume": 331
+    },
+    {
+      "code": "75008",
+      "name": "Paris 8ème",
+      "slug": "paris-8ème",
+      "prix_m2": 11733,
+      "evolution": 2.4,
+      "volume": 179
+    },
+    {
+      "code": "06000",
+      "name": "Nice",
+      "slug": "nice",
+      "prix_m2": 6008,
+      "evolution": 3.4,
+      "volume": 267
+    },
+    {
+      "code": "33000",
+      "name": "Bordeaux",
+      "slug": "bordeaux",
+      "prix_m2": 4926,
+      "evolution": 2.1,
+      "volume": 495
+    },
+    {
+      "code": "44000",
+      "name": "Nantes",
+      "slug": "nantes",
+      "prix_m2": 4726,
+      "evolution": 7.3,
+      "volume": 486
+    },
+    {
+      "code": "13001",
+      "name": "Marseille 1er",
+      "slug": "marseille-1er",
+      "prix_m2": 4352,
+      "evolution": -1.1,
+      "volume": 386
+    },
+    {
+      "code": "69001",
+      "name": "Lyon 1er",
+      "slug": "lyon-1er",
+      "prix_m2": 3690,
+      "evolution": -1.2,
+      "volume": 288
+    },
+    {
+      "code": "59000",
+      "name": "Lille",
+      "slug": "lille",
+      "prix_m2": 3569,
+      "evolution": 6.8,
+      "volume": 189
+    },
+    {
+      "code": "67000",
+      "name": "Strasbourg",
+      "slug": "strasbourg",
+      "prix_m2": 3286,
+      "evolution": 6.0,
+      "volume": 78
+    },
+    {
+      "code": "31000",
+      "name": "Toulouse",
+      "slug": "toulouse",
+      "prix_m2": 2817,
+      "evolution": -1.1,
+      "volume": 107
+    }
+  ],
+  "all_cities": [
+    {
+      "code": "75008",
+      "name": "Paris 8ème",
+      "slug": "paris-8ème"
+    },
+    {
+      "code": "75001",
+      "name": "Paris 1er",
+      "slug": "paris-1er"
+    },
+    {
+      "code": "69001",
+      "name": "Lyon 1er",
+      "slug": "lyon-1er"
+    },
+    {
+      "code": "13001",
+      "name": "Marseille 1er",
+      "slug": "marseille-1er"
+    },
+    {
+      "code": "33000",
+      "name": "Bordeaux",
+      "slug": "bordeaux"
+    },
+    {
+      "code": "59000",
+      "name": "Lille",
+      "slug": "lille"
+    },
+    {
+      "code": "31000",
+      "name": "Toulouse",
+      "slug": "toulouse"
+    },
+    {
+      "code": "06000",
+      "name": "Nice",
+      "slug": "nice"
+    },
+    {
+      "code": "44000",
+      "name": "Nantes",
+      "slug": "nantes"
+    },
+    {
+      "code": "67000",
+      "name": "Strasbourg",
+      "slug": "strasbourg"
+    },
+    {
+      "code": "92200",
+      "name": "Neuilly-sur-Seine",
+      "slug": "neuilly-sur-seine"
+    },
+    {
+      "code": "92100",
+      "name": "Boulogne-Billancourt",
+      "slug": "boulogne-billancourt"
+    },
+    {
+      "code": "78000",
+      "name": "Versailles",
+      "slug": "versailles"
+    },
+    {
+      "code": "35000",
+      "name": "Rennes",
+      "slug": "rennes"
+    },
+    {
+      "code": "34000",
+      "name": "Montpellier",
+      "slug": "montpellier"
+    }
+  ],
+  "metadata": {
+    "generated_at": "2024-11-20T10:00:00Z",
+    "total_cities": 10,
+    "demo_data": true
+  }
+}

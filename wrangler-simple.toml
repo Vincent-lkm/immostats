@@ -1,0 +1,21 @@
+name = "immo-stats"
+main = "worker-simple.js"
+compatibility_date = "2024-11-20"
+account_id = "f32360b16a0a2ad1f76eee6053a1671c"
+
+# Routes
+routes = [
+  { pattern = "immobilier.guide/*", zone_name = "immobilier.guide" },
+  { pattern = "www.immobilier.guide/*", zone_name = "immobilier.guide" }
+]
+
+# KV Namespace (1 seul suffit)
+kv_namespaces = [
+  { binding = "DATA_KV", id = "PENDING_KV_ID" }
+]
+
+# Secret pour webhook
+# wrangler secret put WEBHOOK_SECRET
+
+[vars]
+ENVIRONMENT = "production"

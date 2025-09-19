@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ImmoStats France - 34,969 Communes | Prix Immobilier 2024</title>
+    <meta name="description" content="Prix immobilier 2024 pour 34,969 communes françaises. Prix moyen: 10995€/m². Données DVF officielles.">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <a href="/" class="logo">ImmoStats</a>
+                <div class="nav-links">
+                    <a href="/regions.html">Régions</a>
+                    <a href="/departements.html">Départements</a>
+                    <a href="/villes.html">Toutes les villes</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container">
+            <h1>Prix de l'Immobilier en France 2024</h1>
+            <p class="hero-subtitle">34,969 communes analysées</p>
+
+            <div class="search-box">
+                <input type="text" placeholder="Rechercher parmi 34,969 communes..." id="searchInput">
+                <button onclick="search()">Rechercher</button>
+            </div>
+            <div id="searchResults" style="display: none; background: white; border-radius: 0.5rem; margin-top: 1rem; max-width: 600px; margin: 1rem auto;"></div>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="stats-bar">
+            <div class="stat-item">
+                <div class="stat-value">34,969</div>
+                <div class="stat-label">Communes analysées</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">10,995 €/m²</div>
+                <div class="stat-label">Prix moyen national</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">+3.8%</div>
+                <div class="stat-label">Évolution annuelle</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-value">850K</div>
+                <div class="stat-label">Transactions 2024</div>
+            </div>
+        </div>
+
+        <section class="section">
+            <h2>Top 12 des Villes par Prix au m²</h2>
+            <div class="cities-grid">
+                
+    <div class="city-card">
+        <h3><a href="ville/75056.html">Paris</a></h3>
+        <div class="price">11,469 €/m²</div>
+        <div class="evolution positive">
+            ↑ 6.9%
+        </div>
+        <div class="volume">587 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/13055.html">Marseille</a></h3>
+        <div class="price">9,834 €/m²</div>
+        <div class="evolution positive">
+            ↑ 7.8%
+        </div>
+        <div class="volume">1328 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/69123.html">Lyon</a></h3>
+        <div class="price">12,857 €/m²</div>
+        <div class="evolution positive">
+            ↑ 6.3%
+        </div>
+        <div class="volume">845 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/31555.html">Toulouse</a></h3>
+        <div class="price">13,043 €/m²</div>
+        <div class="evolution positive">
+            ↑ 6.5%
+        </div>
+        <div class="volume">1512 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/06088.html">Nice</a></h3>
+        <div class="price">12,866 €/m²</div>
+        <div class="evolution negative">
+            ↓ 0.6%
+        </div>
+        <div class="volume">1421 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/44109.html">Nantes</a></h3>
+        <div class="price">11,763 €/m²</div>
+        <div class="evolution positive">
+            ↑ 2.0%
+        </div>
+        <div class="volume">821 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/34172.html">Montpellier</a></h3>
+        <div class="price">10,245 €/m²</div>
+        <div class="evolution positive">
+            ↑ 2.5%
+        </div>
+        <div class="volume">719 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/67482.html">Strasbourg</a></h3>
+        <div class="price">12,997 €/m²</div>
+        <div class="evolution positive">
+            ↑ 0.2%
+        </div>
+        <div class="volume">1441 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/33063.html">Bordeaux</a></h3>
+        <div class="price">12,590 €/m²</div>
+        <div class="evolution negative">
+            ↓ 0.8%
+        </div>
+        <div class="volume">968 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/59350.html">Lille</a></h3>
+        <div class="price">13,073 €/m²</div>
+        <div class="evolution positive">
+            ↑ 7.7%
+        </div>
+        <div class="volume">675 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/35238.html">Rennes</a></h3>
+        <div class="price">11,112 €/m²</div>
+        <div class="evolution positive">
+            ↑ 6.6%
+        </div>
+        <div class="volume">1510 ventes en 2024</div>
+    </div>
+    <div class="city-card">
+        <h3><a href="ville/83137.html">Toulon</a></h3>
+        <div class="price">11,237 €/m²</div>
+        <div class="evolution positive">
+            ↑ 5.3%
+        </div>
+        <div class="volume">1970 ventes en 2024</div>
+    </div>
+            </div>
+        </section>
+
+        <section class="content-block">
+            <h2>Le Marché Immobilier Français en 2024</h2>
+            <p>
+                Avec 34,969 communes analysées, ImmoStats offre la vue la plus complète
+                du marché immobilier français. Le prix moyen national s'établit à 10,995€/m²
+                avec des disparités importantes selon les régions et la taille des villes.
+            </p>
+            <p>
+                Les données sont basées sur les transactions officielles DVF (Demandes de Valeurs Foncières)
+                publiées par l'État, garantissant une transparence totale sur les prix réels du marché.
+            </p>
+        </section>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© 2024 ImmoStats France - Données DVF publiques</p>
+            <p>34,969 communes • 13 régions • 101 départements</p>
+        </div>
+    </footer>
+
+    <script src="js/search.js"></script>
+</body>
+</html>

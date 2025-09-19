@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Temporaires
+tmp/
+temp/
+
+# Output data
+output/*.json.bak
+output/temp/
+
+# Large data files (optionnel)
+# output/all_france_transactions.json
