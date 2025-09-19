@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.immostats.fr/sitemap.xml
+
+# Sitemaps par région
+Sitemap: https://www.immostats.fr/sitemap-autres.xml
+Sitemap: https://www.immostats.fr/sitemap-auvergne-rhone-alpes.xml
+Sitemap: https://www.immostats.fr/sitemap-bourgogne-franche-comte.xml
+Sitemap: https://www.immostats.fr/sitemap-bretagne.xml
+Sitemap: https://www.immostats.fr/sitemap-centre-val-de-loire.xml
+Sitemap: https://www.immostats.fr/sitemap-corse.xml
+Sitemap: https://www.immostats.fr/sitemap-grand-est.xml
+Sitemap: https://www.immostats.fr/sitemap-guadeloupe.xml
+Sitemap: https://www.immostats.fr/sitemap-guyane.xml
+Sitemap: https://www.immostats.fr/sitemap-hauts-de-france.xml
+Sitemap: https://www.immostats.fr/sitemap-ile-de-france.xml
+Sitemap: https://www.immostats.fr/sitemap-la-reunion.xml
+Sitemap: https://www.immostats.fr/sitemap-main.xml
+Sitemap: https://www.immostats.fr/sitemap-martinique.xml
+Sitemap: https://www.immostats.fr/sitemap-mayotte.xml
+Sitemap: https://www.immostats.fr/sitemap-normandie.xml
+Sitemap: https://www.immostats.fr/sitemap-nouvelle-aquitaine.xml
+Sitemap: https://www.immostats.fr/sitemap-occitanie.xml
+Sitemap: https://www.immostats.fr/sitemap-pays-de-la-loire.xml
+Sitemap: https://www.immostats.fr/sitemap-provence-alpes-cote-azur.xml
+
+# Performance: limiter le crawl des ressources
+Crawl-delay: 1
+
+# Deployed: 2025-09-19
