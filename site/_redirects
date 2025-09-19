@@ -1,0 +1,7 @@
+# Redirections Cloudflare Pages
+# Forcer www
+http://immostats.fr/* https://www.immostats.fr/:splat 301
+https://immostats.fr/* https://www.immostats.fr/:splat 301
+
+# Pages sans extension .html
+/*.html /:splat 200
